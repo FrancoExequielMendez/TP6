@@ -2,7 +2,7 @@
     font-family: 'Liberation Serif';
     src: url(Fuentes\LiberationSerif-Regular.ttf);
 }
-h1+h2{
+h1+.consignas{
     font-size: 20px;
     font-family: 'Liberation Serif';
 }
